@@ -1,4 +1,4 @@
-# This is the voice recognition training
+# This is the face recognition training
 # Run this file so you could train a program
 # Upload pictures to "output_path"
 # Then run and from your photos it will understand a persons face
